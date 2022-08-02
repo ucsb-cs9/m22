@@ -9,7 +9,7 @@ ready: true
 # Instructor
 Richert Wang
 
-* Tuesdays / Wednesdays 11am - 12pm (HFH 1151)
+* Tuesdays / Wednesdays 11am - 12pm (HSSB 1174)
 
 # TAs
 

@@ -18,6 +18,8 @@ Recorded Lecture: [8_11_22](https://drive.google.com/file/d/1Y6D3YpaOeTvVa0Q9zfF
 2. A recursive algorithm must change its state and move toward the base case
 3. A recursive algorithm must call itself, recursively
 
+In general, recursive solutions must use the solution of subparts of the problem to solve a general problem. 
+
 ## Common Example: Factorial
 
 * N! = N * (N-1) * (N-2) * ... * 3 * 2 * 1

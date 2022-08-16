@@ -28,7 +28,7 @@ You will write five recursive functions for this lab. Each one is specified belo
 
 **Note: You must write each function recursively in order to receive any credit, even if Gradescope's tests pass. For this lab, you may not (and need not) define additional helper functions.**
 
-* `integerDivision(n, k)` - The parameters `n` and `k` are positive integers (you may assume `n` is >= 0 and `k` is > 0). This function recursively returns the quotient (`n // k`) without explicitly using the // operator or a pre-defined function.
+* `integerDivision(n, k)` - The parameters `n` and `k` are positive integers (you may assume `n` is >= 0 and `k` is > 0). This function recursively returns the quotient (`n // k`) without explicitly using the `//` or `/` operators, or a pre-defined function.
 
 ```
 # Example test

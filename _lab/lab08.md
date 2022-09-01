@@ -84,7 +84,7 @@ The `CarInventoryNode` class should define the following methods:
 
 * `__init__(self, car)` - the constructor for the `CarInventoryNode` will take in a `Car` object, and initialize all attributes in the `CarInventoryNode`. The constructor should also append the parameter `Car` object from the parameter into the list attribute `cars`.
 
-In addition to the construction of the BST in this class, the following methods are required to be implemented (note, some methods may be helpful for next week's lab):
+In addition to the construction of the BST in this class, the following methods are required to be implemented:
 * `getMake(self)` - returns a string containing the `make` of a `CarInventoryNode`.
 * `getModel(self)` - returns a string containing the `model` of a `CarInventoryNode`.
 * `getParent(self)` - returns the `parent` Node of the `CarInventoryNode`. If the parent does not exist, return `None`.
